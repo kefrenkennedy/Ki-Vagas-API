@@ -2,8 +2,8 @@
   "name": "m4-ki-vagas",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/HuuRR/m4-ki-vagas.git",
-  "author": "<felipe.campregher@gmail.com>",
+  "repository": "https://github.com/kefrenkennedy/ki-vagas.git",
+  "author": "<kefrenkennedyav@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "ts-node-dev src/server.ts",
